@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a06aa64-6c07-4e38-8d52-d70b04002518" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12345123/Trello/src/main/java/util/CheckActualVsExpectedResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12345123/Trello/src/main/java/util/CheckResponseIsValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12345123/Trello/src/main/java/util/PrepareActualResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12345123/Trello/src/main/java/util/PrepareExpectedResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12345123/Trello/src/test/java/tests/TrelloApiTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Core Part 1/Java Core Part 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Core Part 1/Task1/Task1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test/Java-Part1" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2wLNoiuPWb64y4MAw8B43HD852V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
